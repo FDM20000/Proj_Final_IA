@@ -62,10 +62,8 @@ def processa_frame(img):
 
 ### Observações
 
-- Certifique-se de que o vídeo (`parkinglot.mp4`) está no diretório correto.
-- Adapte os parâmetros de processamento conforme necessário para seu cenário específico.
-
-Claro! Aqui está um exemplo de um `README.md` curto e direto ao ponto para o seu projeto de seleção de múltiplas regiões de interesse (ROIs) em um vídeo:
+- O vídeo (`Entra-nao-fecha.mp4`) está no diretório.
+- Os parâmetros de processamento foram adaptadosconforme necessário para o cenário desejado.
 
 # Seleção de Múltiplas Regiões de Interesse (ROIs)
 
@@ -77,8 +75,8 @@ Permite selecionar múltiplas regiões de interesse (ROIs) em um quadro específ
 
 ```python
 # Caminho para o vídeo
-video_path = 'vagas/parkinglot.mp4'
-
+video_path = 'Entra-nao-fecha.mp4'
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> até aqui ok
 # Número do quadro a ser capturado
 frame_number = 100  # Altere para o número do quadro que você deseja capturar
 ```
