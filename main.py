@@ -1,4 +1,4 @@
-import cv2
+traimport cv2
 import numpy as np
 
 # Definição das regiões de interesse (ROI)
