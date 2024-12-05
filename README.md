@@ -66,18 +66,23 @@ Ações:
    + Salva em arquivo txt as prováveis infrações detectadas para posterior
      verificcação pela Administração e encaminhamento de Notificação ou Multa;
 
-ETAPA 7: Libera os recursos do vídeo e fechar a janela
+# ETAPA 7: Libera os recursos do vídeo e fechar a janela
 
 Após o processamento do vídeo, os recursos são liberados e
 as janelas abertas pelo OpenCV são fechadas.
 
-ETAPA 8: Publica resultados no Terminal e encerra análise.
+# ETAPA 8: Publica resultados no Terminal: 
+
+Para o vídeo deste exercício, será publicado um resultado que deverá ser igual 
+ao que consta salvo no arquivo txt gerado e também com os dados que figuram no frame salvo (jpeg) 
+no canto superior direito da imagem. 
+Isto posto, se encerra a análise.
 
 # Considerações Finais
 
 O video foi capturado pelo aplicativo ISIC Lite da Intelbras para efeitos deste trabalho.
 
-Segundo orientações do Suporte Aplicativos <appsuporte@intelbras.com.br> para uso corrente do app como streaming "utilizar protocolo RTMP ou RTSP dependendo do modelo do gravador, porém terá que validar se sua aplicação é compatível com esses protocolos".
+Segundo orientações do Suporte Aplicativos <appsuporte@intelbras.com.br> para uso corrente do app como streaming >> "utilizar protocolo RTMP ou RTSP dependendo do modelo do gravador, porém terá que validar se sua aplicação é compatível com esses protocolos" << .
 
 Como o app se mostra ser de grande utilidade na gestão dos riscos à segurança dos condomínios, pretendo aprimorar o app, provavelmente no Projeto Final da Graduação.
 
